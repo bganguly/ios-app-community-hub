@@ -1,6 +1,6 @@
 # iOS Community Hub (SwiftUI)
 
-Native iOS implementation of the sibling React Native app experience.
+Native SwiftUI iOS Community Hub app with live BigFuture JSON:API content, filters, and resilient pagination.
 
 Tested on: MacBook Pro (Late 2015), macOS Monterey, Xcode 14.2.
 
